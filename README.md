@@ -24,8 +24,9 @@ Score Board App is an Android application developed using Java and Android Studi
 4. The scores will update in real-time on the screen as you make adjustments.
 
 ## Screenshots
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
+![Screenshot 1](Resources/ScoreBoard(white).png)
+  
+![Screenshot 2](Resources/ScoreBoard(Dark).png)
 
 ## Contributing
 Contributions are welcome! If you have any suggestions, feature requests, or bug reports, please open an issue or submit a pull request.
