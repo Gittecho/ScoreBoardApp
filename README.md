@@ -1,4 +1,4 @@
-# Score Board App
+# ScoreBoardApp
 
 ## Description
 Score Board App is an Android application developed using Java and Android Studio. It serves as a digital scorekeeping tool specifically designed for managing scores in volleyball matches. The app provides simple functionality through increment and decrement buttons for each team, allowing users to easily update and track the scores of both competing teams.
@@ -12,7 +12,7 @@ Score Board App is an Android application developed using Java and Android Studi
 ## Installation
 1. Clone the repository to your local machine using `git clone`.
    ```bash
-   git clone https://github.com/Gittecho/ScoreBoard.git
+   git clone https://github.com/Gittecho/ScoreBoardApp.git
    ```
 2. Open the project in Android Studio.
 3. Build and run the project on an Android device or emulator.
